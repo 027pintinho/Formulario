@@ -1,0 +1,24 @@
+.centro {
+
+    position: relative;
+    left: 850px;
+    text-align: justify;
+    margin-top: 210px;
+}
+
+.box {
+
+    color: azure;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.divForm {
+
+    color: rgb(0, 0, 0);
+}
+
+.button {
+
+    background-color: azure;
+}
